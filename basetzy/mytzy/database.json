@@ -1,0 +1,46 @@
+{
+  "users": {
+    "6282278082114@s.whatsapp.net": {
+      "name": "Putri Amelia 😤",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    }
+  },
+  "chats": {
+    "6285814480623@s.whatsapp.net": {}
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6282278082114@s.whatsapp.net": {
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "public": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autobug": {
+        "status": false,
+        "expired": 0
+      }
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
